@@ -19,7 +19,7 @@ I hold an MSc in Biomedical Engineering from the University of Bristol and was a
 <h3 align="left">Programming Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" alt="sql" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
