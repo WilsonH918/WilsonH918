@@ -32,7 +32,7 @@ I hold an MSc in Biomedical Engineering from the University of Bristol and was a
 
 <h3 align="left">Data Engineering:</h3>
 <p align="left"> 
-<img src="![image](https://user-images.githubusercontent.com/117455557/235686188-4b43d944-db38-4d2f-82cd-523e0aade1c6.png)" alt="airflow" width="40" height="40"/>
+<img src=![image](https://user-images.githubusercontent.com/117455557/235687154-825fd838-ebf1-4505-bd18-c5c0c05cfcac.png) alt="airflow" width="40" height="40"/>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
