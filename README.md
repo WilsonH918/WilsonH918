@@ -5,7 +5,7 @@ As a Data Engineer and Data Scientist with extensive expertise in data pipeline 
 
 In addition to my professional work, I am an active contributor to the open-source community and have several projects on my GitHub profile that showcase my skills in data engineering and machine learning. Previously, I worked as a Statistical Programmer at ICON plc, where I developed software using Python, SAS, and SQL platforms for clinical data reports.  
 
-I hold an MSc in Biomedical Engineering from the University of Bristol and was awarded a fully-funded Think Big Scholarship. Additionally, I am bilingual in English and Mandarin and have volunteered as a Postgraduate Student Ambassador at the University of Bristol.  
+I hold an MSc in Biomedical Engineering from the University of Bristol, where I received a Distinction and was awarded a fully-funded Think Big Scholarship. Additionally, I am bilingual in English and Mandarin and have volunteered as a Postgraduate Student Ambassador at the University of Bristol.  
 
 - 👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)  
 
