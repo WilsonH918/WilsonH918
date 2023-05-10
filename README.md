@@ -17,7 +17,6 @@ I hold an MSc in Biomedical Engineering from the University of Bristol, where I 
 </p>
 
 <h3 align="left">Programming Tools:</h3>
-<p align="left">
 | Project Link | Tools | Project Description |
 |--------------|-------|---------------------|
 | [EnergyStocks_HistoricalPrice_DataPipeline](https://github.com/WilsonH918/EnergyStocks_HistoricalPrice_DataPipeline) | Python, SQL, AWS (Lambda, EC2, S3), Snowflake, PowerBI | This is a data pipeline project that retrieves S&P500 listed energy companies' historical stock price data, stores the data in an AWS S3 bucket, and transforms the data in a Snowflake data warehouse. The project is automated using AWS Lambda to trigger a Python script that runs the pipeline on a scheduled basis. |
