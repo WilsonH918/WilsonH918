@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist</h3>
 
-As a Data Engineer and Data Scientist with extensive expertise in data pipeline development, data migration, data visualization, and statistical modelling, I bring a wealth of knowledge to my work. I specialize in Python, SQL, and SAS, and I have experience working on cloud platforms such as Azure, GCP, Oracle Cloud, Snowflake, and Oracle ERP System. My responsibilities have included developing and maintaining ETL processes, creating data models, and providing valuable insights through data visualization.  
+As a Data Engineer and Data Scientist with extensive expertise in data pipeline development, data migration, data visualization, and statistical modeling, I bring a wealth of knowledge to my work. I specialize in Python, SQL, and SAS, and have hands-on experience working on cloud platforms such as Azure, GCP, Oracle Cloud, Snowflake, and Oracle ERP systems. My responsibilities have included developing and maintaining ETL processes, creating data models, optimizing performance, and providing valuable insights through data visualization.
 
-In addition to my professional work, I am an active contributor to the open-source community and have several projects on my GitHub profile that showcase my skills in data engineering and machine learning. Previously, I worked as a Statistical Programmer at ICON plc, where I developed software using Python, SAS, and SQL platforms for clinical data reports.  
+Currently, I work at Heathrow Airport Limited, where I design and implement data lakehouse architectures, migrate pipelines to Databricks Unity Catalog, and optimize database performance. My expertise also includes working with big data technologies like Spark and Hadoop, and I am skilled in leveraging DevOps tools for CI/CD workflows.
 
-I hold an MSc in Biomedical Engineering from the University of Bristol, where I received a Distinction and was awarded a fully-funded Think Big Scholarship. Additionally, I am bilingual in English and Mandarin and have volunteered as a Postgraduate Student Ambassador at the University of Bristol.  
+I am certified as a Microsoft Azure Data Engineer and a Google Cloud Professional Data Engineer. Additionally, I have personal GitHub projects showcasing my skills in data engineering, machine learning, and cutting-edge technologies such as Retrieval-Augmented Generation (RAG) with vector databases.
+
+I hold an MSc in Biomedical Engineering from the University of Bristol, where I received a Distinction and was awarded a fully-funded Think Big Scholarship. I am also bilingual in English and Mandarin and have volunteered as a Postgraduate Student Ambassador at the University of Bristol.
+
+Feel free to explore my GitHub profile for more on my projects and contributions to the open-source community.
 
 - 👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)  
 
