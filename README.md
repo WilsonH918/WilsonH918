@@ -25,7 +25,7 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 | [ERC20 MyToken](https://github.com/WilsonH918/ERC20_MyToken) | Solidity, Python, Web3, Blockchain | This is a simple ERC20 token contract written in Solidity. It allows for the creation, transfer, and burning of tokens. The contract also includes an onlyOwner modifier to restrict access to certain functions. |
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 #### Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
@@ -43,14 +43,18 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%230E82D8.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%23007AFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-#### Tools & Frameworks
+#### Data Engineering
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
-![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+#### Tools & Frameworks
+![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23FF4081.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Data Science & Machine Learning
@@ -62,10 +66,10 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
