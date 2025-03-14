@@ -8,38 +8,11 @@ I am certified as a Microsoft Azure Data Engineer and a Google Cloud Professiona
 Feel free to explore my GitHub profile for more on my projects and contributions to the open-source community.
 
 - 👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)
-
-- 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-%2300B3B3.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-![SAS](https://img.shields.io/badge/SAS-%23B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%230E82D8.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
-![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23FF4081.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
 - 📫 How to reach me **wilson.hh.hsieh@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wilson-hsieh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-hsieh/" height="30" width="40" /></a>
+</p>
 
 ## Some of my projects:
 | Project Link | Tools | Project Description |
@@ -52,46 +25,47 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 | [ERC20 MyToken](https://github.com/WilsonH918/ERC20_MyToken) | Solidity, Python, Web3, Blockchain | This is a simple ERC20 token contract written in Solidity. It allows for the creation, transfer, and burning of tokens. The contract also includes an onlyOwner modifier to restrict access to certain functions. |
 
 
-<h3 align="left">Programming Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sql" width="40" height="40"/> </a> 
-<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-</p>
+### 💻 Tech Stack:
 
-<h3 align="left">Big Data:</h3>
-<p align="left"> 
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-</p>
+#### Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h3 align="left">Data Engineering:</h3>
-<p align="left"> 
-<img src="file:///C:/Users/user/Downloads/kisspng-apache-airflow-workflow-orchestration-directed-acy-ampquotamsterda-5d0ade8e791921.559136011560993422496.png" alt="airflow" width="40" height="40"/>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://docs.getdbt.com/docs/static/dbt-logo-full.svg" alt="dbt" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-</p>
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%2300B3B3.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![SAS](https://img.shields.io/badge/SAS-%23B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
 
-<h3 align="left">Cloud:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a> 
-</p>
+#### Databases
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%230E82D8.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-<h3 align="left">Data Visualization:</h3>
-<p align="left"> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
-</p>
+#### Tools & Frameworks
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23FF4081.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<h3 align="left">Version Control:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+#### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wilson-hsieh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-hsieh/" height="30" width="40" /></a>
-</p>
+#### Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
