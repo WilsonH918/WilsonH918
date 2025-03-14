@@ -28,9 +28,9 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ## 💻 Tech Stack:
 
 ### Cloud
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-FFD400?style=for-the-badge&logo=google-cloud&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%2302326A.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-FFD400?style=for-the-badge&logo=googlecloud&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%2302326A.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
