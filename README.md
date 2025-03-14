@@ -27,25 +27,25 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 
 ## 💻 Tech Stack:
 
-#### Cloud
+### Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### Languages
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%2300B3B3.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 ![SAS](https://img.shields.io/badge/SAS-%23B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
 
-#### Databases
+### Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%230E82D8.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%23007AFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-#### Data Engineering
+### Data Engineering
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
@@ -53,11 +53,11 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-#### Tools & Frameworks
+### Tools & Frameworks
 ![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23FF4081.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### Data Science & Machine Learning
+### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -67,7 +67,7 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### Version Control
+### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
