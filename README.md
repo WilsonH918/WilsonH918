@@ -7,9 +7,9 @@ I am certified as a Microsoft Azure Data Engineer and a Google Cloud Professiona
 
 Feel free to explore my GitHub profile for more on my projects and contributions to the open-source community.
 
-- 👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)
+👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)
 
-- 💻 Tech Stack:
+## 💻 Tech Stack:
 
 #### Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
