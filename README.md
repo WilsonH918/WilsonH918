@@ -39,15 +39,7 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-
-
-
 - 📫 How to reach me **wilson.hh.hsieh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wilson-hsieh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-hsieh/" height="30" width="40" /></a>
-</p>
 
 ## Some of my projects:
 | Project Link | Tools | Project Description |
@@ -98,4 +90,8 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wilson-hsieh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-hsieh/" height="30" width="40" /></a>
+</p>
 
