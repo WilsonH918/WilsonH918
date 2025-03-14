@@ -52,24 +52,26 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### Tools & Frameworks
-![JIRA](https://img.shields.io/badge/JIRA-%230A8DDE.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23FF4081.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23FF5722.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white)
 
+### Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Looker](https://img.shields.io/badge/Looker-%23000000.svg?style=for-the-badge&logo=looker&logoColor=white)
+
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
