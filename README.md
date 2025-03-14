@@ -8,7 +8,7 @@ I am certified as a Microsoft Azure Data Engineer and a Google Cloud Professiona
 Feel free to explore my GitHub profile for more on my projects and contributions to the open-source community.
 
 - 👨‍💻 All of my projects are available at [https://github.com/WilsonH918](https://github.com/WilsonH918)
-- 📫 How to reach me **wilson.hh.hsieh@gmail.com**
+- 📫 How to reach me wilson.hh.hsieh@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wilson-hsieh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-hsieh/" height="30" width="40" /></a>
