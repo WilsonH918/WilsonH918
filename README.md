@@ -72,6 +72,12 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Certification
+### Azure Data Engineer
+![Azure DP203 cert](https://github.com/user-attachments/assets/fe6f4c53-ab95-46c0-a1f2-7a868fcfe055)
+
+
+
 
 
 
