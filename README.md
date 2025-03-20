@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist</h3>
 
-As a Data Engineer and Data Scientist, I specialize in data pipeline development, migration, visualization, and statistical modeling. I am proficient in Python, SQL, and SAS, and have experience with cloud platforms like Azure, GCP, Oracle Cloud, Snowflake, and Oracle ERP systems. My current role at Heathrow Airport Limited involves designing data lakehouse architectures, migrating pipelines to Databricks Unity Catalog, and optimizing database performance. I also work with big data technologies like Spark and Hadoop and use DevOps tools for CI/CD workflows.
+As a Data Engineer and Data Scientist, I specialize in data pipeline development, migration, visualization, and statistical modelling. I am proficient in Python, SQL, and SAS, and have experience with cloud platforms like Azure, GCP, AWS, Snowflake, and Oracle ERP systems. My current role at Heathrow Airport Limited involves designing data lakehouse architectures, migrating pipelines to Databricks Unity Catalog, and optimizing database performance. I also work with big data technologies like Spark and Hadoop and use DevOps tools for CI/CD workflows.
 
 I am certified as a Microsoft Azure Data Engineer and a Google Cloud Professional Data Engineer. My GitHub projects showcase my skills in data engineering, machine learning, and Retrieval-Augmented Generation (RAG) with vector databases.
 
