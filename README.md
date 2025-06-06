@@ -76,6 +76,8 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ### Azure Data Engineer
 ![Azure DP203 cert](https://github.com/user-attachments/assets/fe6f4c53-ab95-46c0-a1f2-7a868fcfe055)
 
+![Azure DP600 cert](https://github.com/user-attachments/assets/b19b8eb5-e9a1-4b1f-b040-f55257165fde)
+
 
 
 
